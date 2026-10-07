@@ -4,7 +4,7 @@
 
 int main(){
 
-    //declare/initialise variables
+    //declare(initialise) variables
     double a = 0; //initial point in sum
     double b = M_PI/3.0; //final point in sum
     int N=12;//number of points to use
