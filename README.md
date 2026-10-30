@@ -20,11 +20,17 @@ practical04.c continues with practical 03 using the trapezoidal but uses functio
 Compile with gcc practical04.c -lm -o 'executable_name'.
 
 
-#Practical 05
+# Practical 05
 
 Part a of practical05.c calculates the fibonacci sequence based on an input from the user to cap the number of fibonacci numbers that it uses. Limited to 47 due to integer overflow. will break if you try or use n<2.
 Part b compares two methods of calculating the arctanh(x) for an array from -0.9 to 0.9 with a step size of 0.01. Takes in a tolerance for the calculation of the function using a geometric series. 
 Compile the code with gcc practical05.c -lm -o 'executable_name'.
 Input error handling is not considered so if you put a double where it asks for an integer then it will break. 
 
+# Practical 06
 
+Practical 06 performs matrix multiplication by manipulating the indexing of for loops, this also contains a makefile to generate the executable
+
+
+# Practical 07
+Practical 07 containes exercises involving pointers and dynamic memory allocation. This also performs a calculation that is a taylor approximation for eulers number e. No makefile for this practical compile with gcc practical07.c -o 'filename'
