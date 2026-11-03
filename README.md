@@ -34,3 +34,6 @@ Practical 06 performs matrix multiplication by manipulating the indexing of for 
 
 # Practical 07
 Practical 07 containes exercises involving pointers and dynamic memory allocation. This also performs a calculation that is a taylor approximation for eulers number e. No makefile for this practical compile with gcc practical07.c -o 'filename'
+
+# Practical 08 
+practical 08 contains a comparison of iterative methods and recursive functions for calculating the greatest common divisor between two numbers, this program will compile with gcc practical08.c -o 'filename'.
