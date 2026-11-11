@@ -33,7 +33,10 @@ Practical 06 performs matrix multiplication by manipulating the indexing of for 
 
 
 # Practical 07
-Practical 07 containes exercises involving pointers and dynamic memory allocation. This also performs a calculation that is a taylor approximation for eulers number e. No makefile for this practical compile with gcc practical07.c -o 'filename'
+Practical 07 contains exercises involving pointers and dynamic memory allocation. This also performs a calculation that is a taylor approximation for eulers number e. No makefile for this practical compile with gcc practical07.c -o 'filename'
 
 # Practical 08 
 practical 08 contains a comparison of iterative methods and recursive functions for calculating the greatest common divisor between two numbers, this program will compile with gcc practical08.c -o 'filename'.
+
+# Practical 09
+Practical 09 involves recursive functions, user string input manipulation and array manipulation to determine if a square of numbers is 'magic'. A magic square is when the sum of all the rows, columns and diagonals are equal. This code is compiled with gcc magic_square.c magic_square.h -o 'filename'.
